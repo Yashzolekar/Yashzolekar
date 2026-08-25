@@ -63,7 +63,7 @@ Designed and provisioned AWS infrastructure using **Terraform** and Infrastructu
 - Configured AWS networking
 - Automated infrastructure using Terraform
 
-🔗 **[View Project](YOUR_AWS_TERRAFORM_PROJECT_LINK)**
+🔗 **[View Project](https://github.com/Yashzolekar/aws-infrastructure-terraform)**
 
 ---
 
