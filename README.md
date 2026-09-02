@@ -84,7 +84,7 @@ Built an automated CI/CD pipeline using **Jenkins, Docker, Kubernetes and GitHub
 - Deployed applications using Kubernetes
 - Automated the complete CI/CD workflow
 
-🔗 **[View Project](YOUR_CICD_PROJECT_LINK)**
+🔗 **[View Project](https://github.com/Yashzolekar/End-to-End-CI-CD-Pipeline)**
 
 ---
 
