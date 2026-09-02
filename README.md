@@ -130,30 +130,23 @@ Deployed containerized applications using **Kubernetes**.
 
 ---
 
+
+---
+
 # 🌐 Portfolio
 
-### 🚀 Check out my portfolio
-
-<a href="https://yashz-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=for-the-badge" />
-</a>
+🚀 **Portfolio:**  
+https://yashz-portfolio.vercel.app/
 
 ---
 
 # 🤝 Connect With Me
 
-<a href="https://www.linkedin.com/in/yash-zolekar-8b9366270">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/yash-zolekar-8b9366270
 
-<a href="mailto:yashzolekar2003@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://yashz-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
+📧 **Email:**  
+yashzolekar2003@gmail.com
 ---
 
 # 📊 GitHub Stats
